@@ -28,6 +28,26 @@ This enables **scalable, interpretable, and incremental fault prediction**, even
 
 ---
 
+# DECHSUPA_DATASET
+
+## 📌 Overview
+
+**DECHSUPA_DATASET** is a publicly available dataset designed for research in **formal verification**, **model checking**, and **neural approximation of state-space behaviors** in **Colored Petri Net (CPN)** models.
+
+This dataset is introduced as part of the paper:
+
+> **LEELA: LEveraging LArge Language Models and Neural Approximation for Bidirectional Projection of State Sequences in Colored Petri Net Models**
+
+It provides structured **state-sequence traces** extracted from CPN simulations, enabling machine learning models to learn temporal transitions, predict future states, and reconstruct prior states in reactive systems.
+
+## 📥 Download
+
+You can download the dataset here:
+
+👉 https://github.com/kaopanboonyuen/LEELA/dataset/DECHSUPA_DATASET.zip
+
+---
+
 ## ✨ Key Contributions
 
 * 🔗 **Neural–Symbolic Integration**
